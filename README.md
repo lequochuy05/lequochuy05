@@ -69,3 +69,6 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=lequochuy05&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
+
+## 🐍 My Snake
+![Snake animation](https://raw.githubusercontent.com/lequochuy05/lequochuy05/output/github-snake.svg)
