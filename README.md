@@ -61,11 +61,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lequochuy05&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Huy's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequochuy05&theme=radical&layout=compact&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
