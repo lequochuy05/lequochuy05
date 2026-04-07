@@ -1,3 +1,25 @@
+# Hi there, I'm Lê Quốc Huy 👋 
+
+I'm a third-year IT Student at Vietnam - Korea University (VKU). I specialize in Backend Development with a passion for building scalable and efficient systems.
+
+### 🚀 Technical Skills
+- **Languages:** Java, Python, Kotlin, JavaScript, HTML/CSS
+- **Frameworks:** Spring Boot, ReactJS, Bootstrap
+- **Database:** MySQL, PostgreSQL
+- **DevOps & Tools:** Docker, Git/GitHub, WebSocket
+
+### 🛠️ Featured Projects
+- **[QR Ordering System](https://github.com/lequochuy05/order_by_qr):** A real-time food ordering platform using Spring Boot & WebSockets.
+- **[Onix - Shoes Shop](https://github.com/lequochuy05/Onix):** Mobile shopping app built with Kotlin & Firebase.
+- **[Hotel Management](https://github.com/lequochuy05/HotelManagement):** PHP-based management system.
+
+### 📊 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequochuy05&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequochuy05&layout=compact&theme=radical)
+
+### 📬 How to reach me
+- Email: wuchuy05.dev@gmail.com
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lqh205) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lqhuy_05/) 
 
