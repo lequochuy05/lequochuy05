@@ -28,7 +28,7 @@
 
 ---
 
-## 🐍 My Snake
+## 🐍 Snake
 ![Snake animation](https://raw.githubusercontent.com/lequochuy05/lequochuy05/output/github-snake.svg)
 
 ### 🛠️ Tech Stack & Tools
