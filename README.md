@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/lequochuy05?style=for-the-badge&color=blue"/>
 </p>
 
 <p align="center">
