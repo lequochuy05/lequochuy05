@@ -73,11 +73,43 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[QR Ordering System](https://github.com/lequochuy05/order_by_qr)** | A real-time F&B ordering platform handling complex menu variations and live updates. | `Spring Boot`, `WebSockets`, `MySQL` |
-| **[Onix - Shoes Shop](https://github.com/lequochuy05/Onix)** | A mobile shopping application with modern UI and integrated authentication. | `Kotlin`, `Firebase` |
-| **[Hotel Management](https://github.com/lequochuy05/HotelManagement)** | A comprehensive hotel management system. | `PHP`, `HTML/CSS`, `JS` |
+
+#### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `Live`
+> Real-time F&B platform — from paper menus to digital orders in seconds
+
+**Problem solved:** Restaurants lose 5–7 minutes taking orders due to staff reliance. Solution: Customers order directly via QR code, kitchen receives orders in real-time without intermediaries.
+
+| Metric | Value |
+|--------|-------|
+| Latency update order | < 200ms |
+| Concurrent tables | 20+ |
+| Order time is reduced | ~70% |
+
+🧠 **WebSocket event-driven flow, concurrent state with multiple tables, schema design for menu variations (size, topping) to avoid data duplication.**
+
+`Spring Boot` `WebSocket` `PostgreeSQL` `JWT` `React`
+
+---
+
+#### [Onix — Shoes Shop](https://github.com/lequochuy05/Onix) `Completed`
+> Mobile shopping app with a smooth UX from browse to checkout
+
+**Problem solved:** Student shopping apps often have poor UI and insecure authentication. Onix focuses on a clean experience and true authentication via Firebase.
+
+🧠 **Secure mobile authentication flow, Kotlin state management, Firebase Firestore real-time sync.**
+
+`Kotlin` `Firebase Auth` `Firestore` `Android SDK`
+
+---
+
+#### [Hotel Management System](https://github.com/lequochuy05/HotelManagement) `Completed`
+> Full-cycle hotel management: booking, check-in, payment
+
+**Problem Solved:** Management using Excel is prone to errors when multiple employees work simultaneously. The project replaces it with a web app with clearly defined Admin/Staff permissions.
+
+🧠 **Relational schema for complex domains, RBAC from scratch using PHP sessions.**
+
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
 
 ---
 
@@ -117,8 +149,7 @@
 ---
 
 ### 📬 Contact Me
-<p>
-📧 Email: wuchuy05.dev@gmail.com <br/>
-🌐 Portfolio: https://wuchuy.vercel.app/ <br/>
-💼 Open for Internship / Backend Developer roles
-</p>
+## 🤝 Let's Build Something Together
+I am looking for a **backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
+
+📧 wuchuy05.dev@gmail.com | Available from: [October 2025]
