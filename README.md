@@ -27,89 +27,65 @@
 
 ---
 
-### 👨‍💻 About Me
-<ul>
-  <li>⚡ I specialize in designing <b>robust backend architectures</b> using Java & Spring Boot</li>
-  <li>🔄 Experienced in <b>real-time systems</b> with WebSocket (live updates, event-driven flows)</li>
-  <li>🧠 Strong mindset in <b>clean code, system design, and performance optimization</b></li>
-  <li>🚀 I don’t just build features — I build <b>systems that can grow</b></li>
-</ul>
+### 👨‍💻 Engineering Philosophy
 
-<p><b>Currently, I’m diving deeper into:</b></p>
+I am a Backend Engineer deeply passionate about designing **robust, scalable, and maintainable systems**. My focus extends far beyond writing code that "just works."
 
-<ul>
-  <li>🏗️ Software Architecture (Microservices, Design Patterns)</li>
-  <li>📡 Real-time communication & event-driven systems</li>
-  <li>🐳 DevOps basics (Docker, deployment mindset)</li>
-</ul>
+- **System-Centric Focus:** I specialize in Java & Spring Boot, prioritizing clean architecture and domain-driven design.
+- **Performance Optimization:** Experienced in mitigating bottlenecks, handling concurrency, and modeling database schemas for complex variations (e.g., in F&B systems).
+- **Event-Driven Architectures:** Skilled in building real-time flows using WebSockets and designing asynchronous data pipelines.
+- **Continuous Learning:** Actively expanding my expertise in Microservices, containerization (Docker), and DevOps practices.
 
-<p>
-💡 <b>Goal:</b> Become a backend engineer capable of designing large-scale systems, not just writing APIs.
-</p>
+💡 **My Goal:** To engineer backend solutions that solve real-world problems elegantly, demonstrating a senior-level mindset in every pull request.
 
 ---
 
 ## 🐍 Snake
 ![Snake animation](https://raw.githubusercontent.com/lequochuy05/lequochuy05/output/github-snake.svg)
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| ⚙️ **Core Backend** | <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> |
+| 🗄️ **Data & Cache** | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
+| 🐳 **DevOps & API** | <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
+| 🌐 **Frontend Basics**| <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 
 ---
 
-### 🚀 Featured Projects
+### 🏗️ Engineering Case Studies
 
 #### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `Live`
-> Real-time F&B platform — from paper menus to digital orders in seconds
+> An event-driven F&B platform capable of handling real-time, concurrent orders.
 
-**Problem solved:** Restaurants lose 5–7 minutes taking orders due to staff reliance. Solution: Customers order directly via QR code, kitchen receives orders in real-time without intermediaries.
-
-| Metric | Value |
-|--------|-------|
-| Latency update order | < 200ms |
-| Concurrent tables | 20+ |
-| Order time is reduced | ~70% |
-
-🧠 **WebSocket event-driven flow, concurrent state with multiple tables, schema design for menu variations (size, topping) to avoid data duplication.**
-
-`Spring Boot` `WebSocket` `PostgreeSQL` `JWT` `React`
+- **System Context:** Replaces traditional waitstaff with a direct-to-kitchen QR flow, reducing order latency by ~70%.
+- **Technical Challenges Solved:**
+  - **Concurrency & State Sync:** Engineered a WebSocket-driven event flow to maintain synchronized state across multiple active tables and the kitchen dashboard, ensuring updates happen in `< 200ms`.
+  - **Data Integrity vs Flexibility:** Designed a normalized PostgreSQL schema to handle highly variable item configurations (sizes, toppings, required options) while preventing data duplication and maintaining robust order history for reporting.
+  - **Partial Updates:** Implemented optimized `PATCH` endpoints for granular resource updates, improving performance over full `PUT` replacements.
+- **Tech Stack:** `Java` `Spring Boot` `WebSocket` `PostgreSQL` `JWT` `React`
 
 ---
 
 #### [Onix — Shoes Shop](https://github.com/lequochuy05/Onix) `Completed`
-> Mobile shopping app with a smooth UX from browse to checkout
+> Native Android e-commerce application focusing on secure state management and real-time sync.
 
-**Problem solved:** Student shopping apps often have poor UI and insecure authentication. Onix focuses on a clean experience and true authentication via Firebase.
-
-🧠 **Secure mobile authentication flow, Kotlin state management, Firebase Firestore real-time sync.**
-
-`Kotlin` `Firebase Auth` `Firestore` `Android SDK`
+- **Technical Challenges Solved:**
+  - **State Management:** Utilized Kotlin's advanced features for robust UI state management across a complex shopping cart and checkout flow.
+  - **Real-time Synchronization:** Integrated Firebase Firestore to maintain consistent cart and inventory states across multiple client instances.
+  - **Secure Authentication:** Implemented a secure authentication flow leveraging Firebase Auth.
+- **Tech Stack:** `Kotlin` `Android SDK` `Firebase Auth` `Firestore`
 
 ---
 
 #### [Hotel Management System](https://github.com/lequochuy05/HotelManagement) `Completed`
-> Full-cycle hotel management: booking, check-in, payment
+> Full-cycle booking and administration system with comprehensive Role-Based Access Control (RBAC).
 
-**Problem Solved:** Management using Excel is prone to errors when multiple employees work simultaneously. The project replaces it with a web app with clearly defined Admin/Staff permissions.
-
-🧠 **Relational schema for complex domains, RBAC from scratch using PHP sessions.**
-
-`PHP` `MySQL` `JavaScript` `HTML/CSS`
+- **Technical Challenges Solved:**
+  - **Complex Domain Modeling:** Architected a relational MySQL schema to accurately model rooms, bookings, overlapping reservations, and payment lifecycles.
+  - **Access Control:** Built a custom RBAC system from scratch to strictly separate Admin and Staff privileges, mitigating data manipulation risks.
+- **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
 ---
 
