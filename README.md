@@ -1,30 +1,52 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+L%C3%AA+Qu%E1%BB%91c+Huy+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+L%C3%AA+Qu%E1%BB%91c+Huy+%F0%9F%91%8B;Backend+Engineer+in+Progress;Building+Scalable+Systems" />
 </h1>
 
-<h3 align="center">A FullStack Developer from Vietnam & 3rd-year IT Student at Vietnam-Korea University (VKU) 🎓</h3>
+<h3 align="center">
+  3rd-year IT Student at Vietnam-Korea University (VKU) 🎓
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/lequochuy05?style=for-the-badge&color=blue"/>
+</p>
 
 <p align="center">
   <a href="https://www.facebook.com/lqh205">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/lqhuy_05/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://wuchuy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:wuchuy05.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Learning-Microservices%20%26%20DevOps-orange?style=flat-square"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+<ul>
+  <li>⚡ I specialize in designing <b>robust backend architectures</b> using Java & Spring Boot</li>
+  <li>🔄 Experienced in <b>real-time systems</b> with WebSocket (live updates, event-driven flows)</li>
+  <li>🧠 Strong mindset in <b>clean code, system design, and performance optimization</b></li>
+  <li>🚀 I don’t just build features — I build <b>systems that can grow</b></li>
+</ul>
 
-- 💻 I specialize in **Backend Development** built on Java and , with a strong passion for scalable and efficient systems.
-- ⚙️ Currently honing skills in **Spring Boot**, real-time systems, and software architecture.
-- 🌱 Constantly learning new technologies and best practices to improve code quality.
+<p><b>Currently, I’m diving deeper into:</b></p>
+
+<ul>
+  <li>🏗️ Software Architecture (Microservices, Design Patterns)</li>
+  <li>📡 Real-time communication & event-driven systems</li>
+  <li>🐳 DevOps basics (Docker, deployment mindset)</li>
+</ul>
+
+<p>
+💡 <b>Goal:</b> Become a backend engineer capable of designing large-scale systems, not just writing APIs.
+</p>
 
 ---
 
@@ -52,7 +74,6 @@
 ---
 
 ### 🚀 Featured Projects
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[QR Ordering System](https://github.com/lequochuy05/order_by_qr)** | A real-time F&B ordering platform handling complex menu variations and live updates. | `Spring Boot`, `WebSockets`, `MySQL` |
@@ -62,12 +83,43 @@
 ---
 
 ### 📊 GitHub Analytics
+<details>
+  <summary><b>👉 Click to view my GitHub Streak</b></summary>
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" />
+  </p>
+</details>
 
-### 🏆 Trophies
+<details>
+  <summary><b>👉 Click to view my GitHub Stats</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lequochuy05&show_icons=true&theme=radical&hide_border=true"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>👉 Click to view my Languges</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequochuy05&layout=compact&theme=radical&hide_border=true"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>👉 Click to view my Trophies</b></summary>
+  <br/>
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=lequochuy05&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+</p>
+</details>
+
+---
+
+### 📬 Contact Me
+<p>
+📧 Email: wuchuy05.dev@gmail.com <br/>
+🌐 Portfolio: https://wuchuy.vercel.app/ <br/>
+💼 Open for Internship / Backend Developer roles
 </p>
