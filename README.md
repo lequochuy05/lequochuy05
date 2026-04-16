@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Engineering Philosophy
 
-I am a Backend Engineer deeply passionate about designing **robust, scalable, and maintainable systems**. My focus extends far beyond writing code that "just works."
+I am a Frontend + Backend future Engineer deeply passionate about designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
 
 - **System-Centric Focus:** I specialize in Java & Spring Boot, prioritizing clean architecture and domain-driven design.
 - **Performance Optimization:** Experienced in mitigating bottlenecks, handling concurrency, and modeling database schemas for complex variations (e.g., in F&B systems).
@@ -56,7 +56,7 @@ I am a Backend Engineer deeply passionate about designing **robust, scalable, an
 
 ### 🏗️ Engineering Case Studies
 
-#### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `Live`
+#### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `Completed`
 > An event-driven F&B platform capable of handling real-time, concurrent orders.
 
 - **System Context:** Replaces traditional waitstaff with a direct-to-kitchen QR flow, reducing order latency by ~70%.
