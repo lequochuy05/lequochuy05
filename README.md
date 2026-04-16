@@ -1,14 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Frontend+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Backend+Engineer" />
 </h1>
 
 <h3 align="center">
   3rd-year IT Student at Vietnam-Korea University (VKU) 🎓
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 <p align="center">
   <a href="https://www.facebook.com/lqh205">
@@ -20,28 +16,29 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Microservices%20%26%20DevOps-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-success?style=flat"/>
+  <img src="https://img.shields.io/badge/Learning-Microservices%20%26%20DevOps-orange?style=flat"/>
 </p>
 
 ---
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile%20Views&color=363636&style=flat" />
+</div>
+
 ### 👨‍💻 Engineering Philosophy
 
-I am a Frontend + Backend future Engineer deeply passionate about designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
+I am a Backend future Engineer deeply passionate about designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
 
 - **System-Centric Focus:** I specialize in Java & Spring Boot, prioritizing clean architecture and domain-driven design.
 - **Performance Optimization:** Experienced in mitigating bottlenecks, handling concurrency, and modeling database schemas for complex variations (e.g., in F&B systems).
 - **Event-Driven Architectures:** Skilled in building real-time flows using WebSockets and designing asynchronous data pipelines.
 - **Continuous Learning:** Actively expanding my expertise in Microservices, containerization (Docker), and DevOps practices.
 
-💡 **My Goal:** To engineer backend solutions that solve real-world problems elegantly, demonstrating a senior-level mindset in every pull request.
+💡 **My Goal:** I'm a 3rd-year student trying to think like a senior — not just ship features, but understand why the system is designed this way.
 
 ---
-
-## 🐍 Snake
-![Snake animation](https://raw.githubusercontent.com/lequochuy05/lequochuy05/output/github-snake.svg)
 
 ### 🛠️ Core Stack & Tools
 
@@ -90,21 +87,14 @@ I am a Frontend + Backend future Engineer deeply passionate about designing **ro
 ---
 
 ### 📊 GitHub Analytics
-<details>
-  <summary><b>👉 Click to view my GitHub Streak</b></summary>
-  <br/>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" />
+</p>
 
-<details>
-  <summary><b>👉 Click to view my GitHub Stats</b></summary>
-  <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lequochuy05&show_icons=true&theme=radical&hide_border=true"/>
   </p>
-</details>
 
 <details>
   <summary><b>👉 Click to view my Languges</b></summary>
@@ -126,6 +116,13 @@ I am a Frontend + Backend future Engineer deeply passionate about designing **ro
 
 ### 📬 Contact Me
 ## 🤝 Let's Build Something Together
-I am looking for a **frontend + backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
+I am looking for a **backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
 
-📧 wuchuy05.dev@gmail.com | Available from: [October 2025]
+📧 wuchuy05.dev@gmail.com </br>
+Available from: [April 2026]
+
+---
+
+## 🐍 My Snake
+![Snake animation](https://raw.githubusercontent.com/lequochuy05/lequochuy05/output/github-snake.svg)
+
