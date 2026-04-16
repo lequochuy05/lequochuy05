@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Frontend+Backend+Engineer" />
 </h1>
 
 <h3 align="center">
@@ -126,6 +126,6 @@ I am a Backend Engineer deeply passionate about designing **robust, scalable, an
 
 ### 📬 Contact Me
 ## 🤝 Let's Build Something Together
-I am looking for a **backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
+I am looking for a **frontend + backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
 
 📧 wuchuy05.dev@gmail.com | Available from: [October 2025]
