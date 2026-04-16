@@ -32,7 +32,7 @@
 
 ### 👨‍💻 Engineering Philosophy
 
-I am a Backend future Engineer deeply passionate about designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
+I am a Backend Engineer focused on designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
 
 - **System-Centric Focus:** I specialize in Java & Spring Boot, prioritizing clean architecture and domain-driven design.
 - **Performance Optimization:** Experienced in mitigating bottlenecks, handling concurrency, and modeling database schemas for complex variations (e.g., in F&B systems).
@@ -91,13 +91,20 @@ I am a Backend future Engineer deeply passionate about designing **robust, scala
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" />
-</p>
+<details>
+  <summary><b>👉 Click to view my Streak</b></summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lequochuy05&theme=radical&hide_border=true" />
+  </p>
+</details>
 
-<p align="center">
+<details>
+  <summary><b>👉 Click to view my Stats</b></summary>
+  <br/>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lequochuy05&show_icons=true&theme=radical&hide_border=true"/>
   </p>
+</details>
 
 <details>
   <summary><b>👉 Click to view my Languges</b></summary>
