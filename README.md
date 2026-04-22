@@ -50,7 +50,7 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 | ⚙️ **Core Backend** | <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> |
 | 🗄️ **Data & Cache** | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> |
 | 🐳 **DevOps & API** | <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> |
-| 🌐 **Frontend Basics**| <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
+| 🌐 **Frontend Basics**| <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> |
 
 ---
 
@@ -126,7 +126,7 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 
 ### 📬 Contact Me
 ## 🤝 Let's Build Something Together
-I am looking for a **backend internship** opportunity to contribute to a real-world system and learn from senior engineers.
+I am looking for a **Backend Development** opportunity to contribute to a real-world system and learn from senior engineers.
 
 📧 wuchuy05.dev@gmail.com </br>
 Available from: [April 2026]
