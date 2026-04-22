@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Le+Quoc+Huy+%F0%9F%91%8B;Backend+Development" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4DA6FF&height=100&section=footer" width="100%"/>
