@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-blue?style=flat"/>
   <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Scalability-success?style=flat"/>
-  <img src="https://img.shields.io/badge/Learning-Microservices%20%26%20DevOps-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/Learning-AI%20Integration%20%7C%20Spring%20AI-purple?style=flat"/>
 </p>
 
 ---
@@ -31,15 +31,14 @@
 </div>
 
 ### 👨‍💻 Engineering Philosophy
-
-I am a Backend Engineer focused on designing **robust, scalable, and maintainable systems**.</br> My focus extends far beyond writing code that "just works."
+I am a Backend-oriented IT student focused on Java Spring Boot and scalable web systems.
 
 - **System-Centric Focus:** I specialize in Java & Spring Boot, prioritizing clean architecture and domain-driven design.
 - **Performance Optimization:** Experienced in mitigating bottlenecks, handling concurrency, and modeling database schemas for complex variations (e.g., in F&B systems).
 - **Event-Driven Architectures:** Skilled in building real-time flows using WebSockets and designing asynchronous data pipelines.
 - **Continuous Learning:** Actively expanding my expertise in Microservices, containerization (Docker), and DevOps practices.
 
-💡 **My Goal:** I'm a 3rd-year student trying to think like a senior — not just ship features, but understand why the system is designed this way.
+💡 **My Goal:** develop senior-level engineering thinking: understanding trade-offs, system design decisions, and long-term maintainability.
 
 ---
 
@@ -56,14 +55,13 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 
 ### 🏗️ Engineering Case Studies
 
-#### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `Completed`
+#### [QR Ordering System](https://github.com/lequochuy05/order_by_qr) `present`
 > An event-driven F&B platform capable of handling real-time, concurrent orders.
 
-- **System Context:** Replaces traditional waitstaff with a direct-to-kitchen QR flow, reducing order latency by ~70%.
-- **Technical Challenges Solved:**
-  - **Concurrency & State Sync:** Engineered a WebSocket-driven event flow to maintain synchronized state across multiple active tables and the kitchen dashboard, ensuring updates happen in `< 200ms`.
-  - **Data Integrity vs Flexibility:** Designed a normalized PostgreSQL schema to handle highly variable item configurations (sizes, toppings, required options) while preventing data duplication and maintaining robust order history for reporting.
-  - **Partial Updates:** Implemented optimized `PATCH` endpoints for granular resource updates, improving performance over full `PUT` replacements.
+- **System Context:** Replaces manual order-taking with a direct QR-to-kitchen workflow, helping reduce communication delays between customers, staff, and kitchen.
+- **Real-time Synchronization:** Built WebSocket-based order updates to synchronize customer orders, kitchen dashboard, and admin views in near real time.
+- **Data Modeling:** Designed PostgreSQL schemas for menu items, categories, combos, orders, order items, vouchers, and user roles.
+- **Security:** Implemented JWT authentication and RBAC for Manager, Staff, and Chef roles.
 - **Tech Stack:** `Java` `Spring Boot` `WebSocket` `PostgreSQL` `JWT` `React`
 
 ---
@@ -73,9 +71,9 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 
 - **Technical Challenges Solved:**
   - **State Management:** Utilized Kotlin's advanced features for robust UI state management across a complex shopping cart and checkout flow.
-  - **Real-time Synchronization:** Integrated Firebase Firestore to maintain consistent cart and inventory states across multiple client instances.
+  - **Real-time Systems:** Experienced in WebSocket-based order synchronization and asynchronous backend flows.
   - **Secure Authentication:** Implemented a secure authentication flow leveraging Firebase Auth.
-- **Tech Stack:** `Kotlin` `Android SDK` `Firebase Auth` `Firestore`
+- **Tech Stack:** `Kotlin` `Android SDK` `Firebase Auth` `Firebase realtime Database`
 
 ---
 
@@ -107,7 +105,7 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 </details>
 
 <details>
-  <summary><b>👉 Click to view my Languges</b></summary>
+  <summary><b>👉 Click to view my Languages</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequochuy05&layout=compact&theme=radical&hide_border=true"/>
@@ -129,7 +127,7 @@ I am a Backend Engineer focused on designing **robust, scalable, and maintainabl
 I am looking for a **Backend Development** opportunity to contribute to a real-world system and learn from senior engineers.
 
 📧 wuchuy05.dev@gmail.com </br>
-Available from: [April 2026]
+Available from: [June 2026]
 
 ---
 
