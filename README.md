@@ -97,22 +97,6 @@ I am a Backend-oriented IT student focused on Java Spring Boot and scalable web 
 </details>
 
 <details>
-  <summary><b>👉 Click to view my Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lequochuy05&show_icons=true&theme=radical&hide_border=true"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>👉 Click to view my Languages</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lequochuy05&layout=compact&theme=radical&hide_border=true"/>
-  </p>
-</details>
-
-<details>
   <summary><b>👉 Click to view my Trophies</b></summary>
   <br/>
 <p align="center">
