@@ -28,7 +28,7 @@
 ---
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile%20Views&color=363636&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=lequochuy05&label=Profile+Views&color=363636&style=flat&abbreviated=true" alt="Profile views" />
 </div>
 
 ### 👨‍💻 Philosophy
